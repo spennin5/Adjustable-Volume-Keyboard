@@ -1,4 +1,4 @@
-This project contains seven buttons corrosponding to the seven musical notes A-G in the 4th octive. Frequencies were chosen 
+This project contains seven buttons corresponding to the seven musical notes A-G in the 4th octave. Frequencies were chosen 
 based on the frequency values provided on the table from http://www.phy.mtu.edu/~suits/notefreqs.html. The volume can be adjusted using the rotary potentiometer.
 
 Parts:
